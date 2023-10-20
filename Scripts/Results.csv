@@ -1,0 +1,5 @@
+Age,Gender,City,Language,Please give your opinion,Sentiment
+25,Male,Delhi,Hindi,Its a good product,Neutral
+26,Female,Uttrakhand,English,Its a worst product,Negative
+28,Male,Uttar Pradesh,Hindi,Its a decent product,Neutral
+22,Female,Mumbai,Hindi,Its a bad product,Negative
